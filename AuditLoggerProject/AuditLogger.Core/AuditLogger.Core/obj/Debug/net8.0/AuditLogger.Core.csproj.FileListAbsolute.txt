@@ -1,0 +1,11 @@
+C:\Projects\GNIVC_Trainee_Practice\AuditLoggerProject\AuditLogger.Core\AuditLogger.Core\obj\Debug\net8.0\AuditLogger.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\GNIVC_Trainee_Practice\AuditLoggerProject\AuditLogger.Core\AuditLogger.Core\obj\Debug\net8.0\AuditLogger.Core.AssemblyInfoInputs.cache
+C:\Projects\GNIVC_Trainee_Practice\AuditLoggerProject\AuditLogger.Core\AuditLogger.Core\obj\Debug\net8.0\AuditLogger.Core.AssemblyInfo.cs
+C:\Projects\GNIVC_Trainee_Practice\AuditLoggerProject\AuditLogger.Core\AuditLogger.Core\obj\Debug\net8.0\AuditLogger.Core.csproj.CoreCompileInputs.cache
+C:\Projects\GNIVC_Trainee_Practice\AuditLoggerProject\AuditLogger.Core\AuditLogger.Core\bin\Debug\net8.0\AuditLogger.Core.deps.json
+C:\Projects\GNIVC_Trainee_Practice\AuditLoggerProject\AuditLogger.Core\AuditLogger.Core\bin\Debug\net8.0\AuditLogger.Core.dll
+C:\Projects\GNIVC_Trainee_Practice\AuditLoggerProject\AuditLogger.Core\AuditLogger.Core\bin\Debug\net8.0\AuditLogger.Core.pdb
+C:\Projects\GNIVC_Trainee_Practice\AuditLoggerProject\AuditLogger.Core\AuditLogger.Core\obj\Debug\net8.0\AuditLogger.Core.dll
+C:\Projects\GNIVC_Trainee_Practice\AuditLoggerProject\AuditLogger.Core\AuditLogger.Core\obj\Debug\net8.0\refint\AuditLogger.Core.dll
+C:\Projects\GNIVC_Trainee_Practice\AuditLoggerProject\AuditLogger.Core\AuditLogger.Core\obj\Debug\net8.0\AuditLogger.Core.pdb
+C:\Projects\GNIVC_Trainee_Practice\AuditLoggerProject\AuditLogger.Core\AuditLogger.Core\obj\Debug\net8.0\ref\AuditLogger.Core.dll
