@@ -10,7 +10,7 @@ namespace AuditLogger.Core.Stores
 
         public DbLogStore()
         {
-            _connectionString = "Host = 46.191.235.28; Port = 5432; Username = postgres; Password = Asdf = 1234Asdf = 1234; Database = pm_01";
+            _connectionString = "Host=46.191.235.28;Port = 5432;Username = postgres;Password=Asdf=1234Asdf=1234;Database=pm_01";
         }
 
         public void Save(LogEntry entry)
