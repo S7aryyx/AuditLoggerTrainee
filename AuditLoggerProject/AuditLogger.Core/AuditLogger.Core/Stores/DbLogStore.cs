@@ -56,7 +56,7 @@ namespace AuditLogger.Core.Stores
                     {
                         UserId = reader["user_id"].ToString(),
                         Action = reader["action"].ToString(),
-                        Timestamp = (DateTime)reader["log_time"], 
+                        Timestamp = (DateTime)reader["timestamp"], 
                         Details = reader["details"]?.ToString()
                     });
                 }
