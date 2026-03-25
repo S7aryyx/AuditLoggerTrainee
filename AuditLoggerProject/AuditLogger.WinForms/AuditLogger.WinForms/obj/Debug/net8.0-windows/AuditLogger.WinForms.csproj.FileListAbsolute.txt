@@ -3,6 +3,10 @@ C:\Users\Hellyx\source\repos\AuditLoggerTrainee\AuditLoggerProject\AuditLogger.W
 C:\Users\Hellyx\source\repos\AuditLoggerTrainee\AuditLoggerProject\AuditLogger.WinForms\AuditLogger.WinForms\bin\Debug\net8.0-windows\AuditLogger.WinForms.runtimeconfig.json
 C:\Users\Hellyx\source\repos\AuditLoggerTrainee\AuditLoggerProject\AuditLogger.WinForms\AuditLogger.WinForms\bin\Debug\net8.0-windows\AuditLogger.WinForms.dll
 C:\Users\Hellyx\source\repos\AuditLoggerTrainee\AuditLoggerProject\AuditLogger.WinForms\AuditLogger.WinForms\bin\Debug\net8.0-windows\AuditLogger.WinForms.pdb
+C:\Users\Hellyx\source\repos\AuditLoggerTrainee\AuditLoggerProject\AuditLogger.WinForms\AuditLogger.WinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Hellyx\source\repos\AuditLoggerTrainee\AuditLoggerProject\AuditLogger.WinForms\AuditLogger.WinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Hellyx\source\repos\AuditLoggerTrainee\AuditLoggerProject\AuditLogger.WinForms\AuditLogger.WinForms\bin\Debug\net8.0-windows\Npgsql.dll
+C:\Users\Hellyx\source\repos\AuditLoggerTrainee\AuditLoggerProject\AuditLogger.WinForms\AuditLogger.WinForms\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
 C:\Users\Hellyx\source\repos\AuditLoggerTrainee\AuditLoggerProject\AuditLogger.WinForms\AuditLogger.WinForms\bin\Debug\net8.0-windows\AuditLogger.Core.dll
 C:\Users\Hellyx\source\repos\AuditLoggerTrainee\AuditLoggerProject\AuditLogger.WinForms\AuditLogger.WinForms\bin\Debug\net8.0-windows\AuditLogger.Core.pdb
 C:\Users\Hellyx\source\repos\AuditLoggerTrainee\AuditLoggerProject\AuditLogger.WinForms\AuditLogger.WinForms\obj\Debug\net8.0-windows\AuditLogger.WinForms.csproj.AssemblyReference.cache
@@ -19,7 +23,3 @@ C:\Users\Hellyx\source\repos\AuditLoggerTrainee\AuditLoggerProject\AuditLogger.W
 C:\Users\Hellyx\source\repos\AuditLoggerTrainee\AuditLoggerProject\AuditLogger.WinForms\AuditLogger.WinForms\obj\Debug\net8.0-windows\AuditLogger.WinForms.pdb
 C:\Users\Hellyx\source\repos\AuditLoggerTrainee\AuditLoggerProject\AuditLogger.WinForms\AuditLogger.WinForms\obj\Debug\net8.0-windows\AuditLogger.WinForms.genruntimeconfig.cache
 C:\Users\Hellyx\source\repos\AuditLoggerTrainee\AuditLoggerProject\AuditLogger.WinForms\AuditLogger.WinForms\obj\Debug\net8.0-windows\ref\AuditLogger.WinForms.dll
-C:\Users\Hellyx\source\repos\AuditLoggerTrainee\AuditLoggerProject\AuditLogger.WinForms\AuditLogger.WinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\Hellyx\source\repos\AuditLoggerTrainee\AuditLoggerProject\AuditLogger.WinForms\AuditLogger.WinForms\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\Hellyx\source\repos\AuditLoggerTrainee\AuditLoggerProject\AuditLogger.WinForms\AuditLogger.WinForms\bin\Debug\net8.0-windows\Npgsql.dll
-C:\Users\Hellyx\source\repos\AuditLoggerTrainee\AuditLoggerProject\AuditLogger.WinForms\AuditLogger.WinForms\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll

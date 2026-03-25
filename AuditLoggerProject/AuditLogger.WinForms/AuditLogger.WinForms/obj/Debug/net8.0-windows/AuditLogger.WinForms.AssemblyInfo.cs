@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AuditLogger.WinForms")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+54cc8ec0859bdddef3085436de7ed07659c6ade9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c17b5e17f775f00a01aa6a1a2345b5e355ca3be1")]
 [assembly: System.Reflection.AssemblyProductAttribute("AuditLogger.WinForms")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AuditLogger.WinForms")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
