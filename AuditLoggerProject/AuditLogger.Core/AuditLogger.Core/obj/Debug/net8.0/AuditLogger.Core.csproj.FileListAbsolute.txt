@@ -9,3 +9,16 @@ C:\Projects\GNIVC_Trainee_Practice\AuditLoggerProject\AuditLogger.Core\AuditLogg
 C:\Projects\GNIVC_Trainee_Practice\AuditLoggerProject\AuditLogger.Core\AuditLogger.Core\obj\Debug\net8.0\refint\AuditLogger.Core.dll
 C:\Projects\GNIVC_Trainee_Practice\AuditLoggerProject\AuditLogger.Core\AuditLogger.Core\obj\Debug\net8.0\AuditLogger.Core.pdb
 C:\Projects\GNIVC_Trainee_Practice\AuditLoggerProject\AuditLogger.Core\AuditLogger.Core\obj\Debug\net8.0\ref\AuditLogger.Core.dll
+C:\Users\Hellyx\source\repos\AuditLoggerTrainee\AuditLoggerProject\AuditLogger.Core\AuditLogger.Core\bin\Debug\net8.0\AuditLogger.Core.deps.json
+C:\Users\Hellyx\source\repos\AuditLoggerTrainee\AuditLoggerProject\AuditLogger.Core\AuditLogger.Core\bin\Debug\net8.0\AuditLogger.Core.dll
+C:\Users\Hellyx\source\repos\AuditLoggerTrainee\AuditLoggerProject\AuditLogger.Core\AuditLogger.Core\bin\Debug\net8.0\AuditLogger.Core.pdb
+C:\Users\Hellyx\source\repos\AuditLoggerTrainee\AuditLoggerProject\AuditLogger.Core\AuditLogger.Core\obj\Debug\net8.0\AuditLogger.Core.csproj.AssemblyReference.cache
+C:\Users\Hellyx\source\repos\AuditLoggerTrainee\AuditLoggerProject\AuditLogger.Core\AuditLogger.Core\obj\Debug\net8.0\AuditLogger.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hellyx\source\repos\AuditLoggerTrainee\AuditLoggerProject\AuditLogger.Core\AuditLogger.Core\obj\Debug\net8.0\AuditLogger.Core.AssemblyInfoInputs.cache
+C:\Users\Hellyx\source\repos\AuditLoggerTrainee\AuditLoggerProject\AuditLogger.Core\AuditLogger.Core\obj\Debug\net8.0\AuditLogger.Core.AssemblyInfo.cs
+C:\Users\Hellyx\source\repos\AuditLoggerTrainee\AuditLoggerProject\AuditLogger.Core\AuditLogger.Core\obj\Debug\net8.0\AuditLogger.Core.csproj.CoreCompileInputs.cache
+C:\Users\Hellyx\source\repos\AuditLoggerTrainee\AuditLoggerProject\AuditLogger.Core\AuditLogger.Core\obj\Debug\net8.0\AuditLogger.Core.sourcelink.json
+C:\Users\Hellyx\source\repos\AuditLoggerTrainee\AuditLoggerProject\AuditLogger.Core\AuditLogger.Core\obj\Debug\net8.0\AuditLogger.Core.dll
+C:\Users\Hellyx\source\repos\AuditLoggerTrainee\AuditLoggerProject\AuditLogger.Core\AuditLogger.Core\obj\Debug\net8.0\refint\AuditLogger.Core.dll
+C:\Users\Hellyx\source\repos\AuditLoggerTrainee\AuditLoggerProject\AuditLogger.Core\AuditLogger.Core\obj\Debug\net8.0\AuditLogger.Core.pdb
+C:\Users\Hellyx\source\repos\AuditLoggerTrainee\AuditLoggerProject\AuditLogger.Core\AuditLogger.Core\obj\Debug\net8.0\ref\AuditLogger.Core.dll

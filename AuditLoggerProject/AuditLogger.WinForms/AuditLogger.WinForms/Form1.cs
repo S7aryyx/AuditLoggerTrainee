@@ -23,10 +23,6 @@ namespace AuditLogger.WinForms
             }
             else if (rbDatabase.Checked)
             {
-                MessageBox.Show("Данный функционал не написан.");
-            }
-            else if (rbDatabase.Checked)
-            {
                 _auditService = new AuditService(
                     new DbLogStore("Host=46.191.235.28;Port=5432;Username=postgres;Password=Asdf=1234Asdf=1234;Database=PM_01")
                 );
