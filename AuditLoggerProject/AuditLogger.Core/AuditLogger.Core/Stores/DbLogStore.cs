@@ -10,7 +10,7 @@ namespace AuditLogger.Core.Stores
 
         public DbLogStore(string connectionString)
         {
-            _connectionString = connectionString;
+            _connectionString = "Host = 46.191.235.28; Port = 5432; Username = postgres; Password = Asdf = 1234Asdf = 1234; Database = pm_01";
         }
 
         public void Save(LogEntry entry)
@@ -21,19 +21,18 @@ namespace AuditLogger.Core.Stores
                 conn.Open();
 
                 var cmd = new NpgsqlCommand(
-                    "INSERT INTO logs(user_id, action, timestamp, details) VALUES (@u, @a, @t, @d)",
+                    "CALL insert_log(@user_id, @action, @time, @details)",
                     conn);
 
-                cmd.Parameters.AddWithValue("u", entry.UserId);
-                cmd.Parameters.AddWithValue("a", entry.Action);
-                cmd.Parameters.AddWithValue("t", entry.Timestamp);
-                cmd.Parameters.AddWithValue("d", (object?)entry.Details ?? DBNull.Value);
+                cmd.Parameters.AddWithValue("user_id", entry.UserId);
+                cmd.Parameters.AddWithValue("action", entry.Action);
+                cmd.Parameters.AddWithValue("time", entry.Timestamp);
+                cmd.Parameters.AddWithValue("details", (object?)entry.Details ?? DBNull.Value);
 
                 cmd.ExecuteNonQuery();
             }
             catch (Exception ex)
             {
-                // fallback (по заданию)
                 Console.WriteLine($"[DB ERROR] {ex.Message}");
             }
         }
@@ -47,7 +46,7 @@ namespace AuditLogger.Core.Stores
                 using var conn = new NpgsqlConnection(_connectionString);
                 conn.Open();
 
-                var cmd = new NpgsqlCommand("SELECT user_id, action, timestamp, details FROM logs", conn);
+                var cmd = new NpgsqlCommand("CALL GetUserLogs();", conn);
 
                 using var reader = cmd.ExecuteReader();
 
