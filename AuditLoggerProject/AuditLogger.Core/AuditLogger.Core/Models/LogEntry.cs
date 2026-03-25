@@ -13,6 +13,7 @@ namespace AuditLogger.Core.Models
         public DateTime Timestamp { get; set; }
         public string Details { get; set; }
 
+        public LogEntry() { }
         public LogEntry(string n_UserId, string n_Action , string n_Details = null)
         {
            
