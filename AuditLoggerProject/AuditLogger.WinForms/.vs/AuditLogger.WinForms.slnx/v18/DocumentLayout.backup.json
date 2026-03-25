@@ -9,6 +9,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{A881BF33-3F1F-3D2A-12F6-4188DF29965A}|AuditLogger.WinForms\\AuditLogger.WinForms.csproj|C:\\Users\\Hellyx\\source\\repos\\AuditLoggerTrainee\\AuditLoggerProject\\AuditLogger.WinForms\\auditlogger.winforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A881BF33-3F1F-3D2A-12F6-4188DF29965A}|AuditLogger.WinForms\\AuditLogger.WinForms.csproj|solutionrelative:auditlogger.winforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A881BF33-3F1F-3D2A-12F6-4188DF29965A}|AuditLogger.WinForms\\AuditLogger.WinForms.csproj|c:\\users\\hellyx\\source\\repos\\auditloggertrainee\\auditloggerproject\\auditlogger.winforms\\auditlogger.winforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A881BF33-3F1F-3D2A-12F6-4188DF29965A}|AuditLogger.WinForms\\AuditLogger.WinForms.csproj|solutionrelative:auditlogger.winforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,13 +46,25 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hellyx\\source\\repos\\AuditLoggerTrainee\\AuditLoggerProject\\AuditLogger.WinForms\\AuditLogger.WinForms\\Program.cs",
+              "RelativeDocumentMoniker": "AuditLogger.WinForms\\Program.cs",
+              "ToolTip": "C:\\Users\\Hellyx\\source\\repos\\AuditLoggerTrainee\\AuditLoggerProject\\AuditLogger.WinForms\\AuditLogger.WinForms\\Program.cs",
+              "RelativeToolTip": "AuditLogger.WinForms\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T22:38:25.212Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Hellyx\\source\\repos\\AuditLoggerTrainee\\AuditLoggerProject\\AuditLogger.WinForms\\AuditLogger.WinForms\\Form1.cs",
               "RelativeDocumentMoniker": "AuditLogger.WinForms\\Form1.cs",
               "ToolTip": "C:\\Users\\Hellyx\\source\\repos\\AuditLoggerTrainee\\AuditLoggerProject\\AuditLogger.WinForms\\AuditLogger.WinForms\\Form1.cs",
               "RelativeToolTip": "AuditLogger.WinForms\\Form1.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAA5wBoAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-25T21:47:41.263Z",
               "EditorCaption": ""

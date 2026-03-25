@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Hellyx\\source\\repos\\AuditLoggerTrainee\\AuditLoggerProject\\AuditLogger.Core\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F363C454-42A3-B5AD-A6B1-6F148F7602A7}|AuditLogger.Core\\AuditLogger.Core.csproj|c:\\users\\hellyx\\source\\repos\\auditloggertrainee\\auditloggerproject\\auditlogger.core\\auditlogger.core\\stores\\dblogstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F363C454-42A3-B5AD-A6B1-6F148F7602A7}|AuditLogger.Core\\AuditLogger.Core.csproj|solutionrelative:auditlogger.core\\stores\\dblogstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F363C454-42A3-B5AD-A6B1-6F148F7602A7}|AuditLogger.Core\\AuditLogger.Core.csproj|c:\\users\\hellyx\\source\\repos\\auditloggertrainee\\auditloggerproject\\auditlogger.core\\auditlogger.core\\auditlogger.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{F363C454-42A3-B5AD-A6B1-6F148F7602A7}|AuditLogger.Core\\AuditLogger.Core.csproj|solutionrelative:auditlogger.core\\auditlogger.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,7 +50,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "DbLogStore.cs",
+              "DocumentMoniker": "C:\\Users\\Hellyx\\source\\repos\\AuditLoggerTrainee\\AuditLoggerProject\\AuditLogger.Core\\AuditLogger.Core\\Stores\\DbLogStore.cs",
+              "RelativeDocumentMoniker": "AuditLogger.Core\\Stores\\DbLogStore.cs",
+              "ToolTip": "C:\\Users\\Hellyx\\source\\repos\\AuditLoggerTrainee\\AuditLoggerProject\\AuditLogger.Core\\AuditLogger.Core\\Stores\\DbLogStore.cs",
+              "RelativeToolTip": "AuditLogger.Core\\Stores\\DbLogStore.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAmwDAAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T22:31:49.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "MemoryLogStore.cs",
               "DocumentMoniker": "C:\\Users\\Hellyx\\source\\repos\\AuditLoggerTrainee\\AuditLoggerProject\\AuditLogger.Core\\AuditLogger.Core\\Stores\\MemoryLogStore.cs",
               "RelativeDocumentMoniker": "AuditLogger.Core\\Stores\\MemoryLogStore.cs",
@@ -54,12 +71,11 @@
               "RelativeToolTip": "AuditLogger.Core\\Stores\\MemoryLogStore.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-25T21:57:57.592Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-25T21:57:57.592Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "LogEntry.cs",
               "DocumentMoniker": "C:\\Users\\Hellyx\\source\\repos\\AuditLoggerTrainee\\AuditLoggerProject\\AuditLogger.Core\\AuditLogger.Core\\Models\\LogEntry.cs",
               "RelativeDocumentMoniker": "AuditLogger.Core\\Models\\LogEntry.cs",
@@ -71,7 +87,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "AuditLogger.Core.csproj",
               "DocumentMoniker": "C:\\Users\\Hellyx\\source\\repos\\AuditLoggerTrainee\\AuditLoggerProject\\AuditLogger.Core\\AuditLogger.Core\\AuditLogger.Core.csproj",
               "RelativeDocumentMoniker": "AuditLogger.Core\\AuditLogger.Core.csproj",
@@ -79,12 +95,7 @@
               "RelativeToolTip": "AuditLogger.Core\\AuditLogger.Core.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-25T21:44:10.393Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "WhenOpened": "2026-03-25T21:44:10.393Z"
             }
           ]
         }
