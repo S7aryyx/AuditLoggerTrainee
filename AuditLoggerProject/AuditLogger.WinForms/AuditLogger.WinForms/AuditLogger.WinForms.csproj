@@ -10,6 +10,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Npgsql" Version="10.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Reference Include="AuditLogger.Core">
       <HintPath>..\..\AuditLogger.Core\AuditLogger.Core\bin\Debug\net8.0\AuditLogger.Core.dll</HintPath>
     </Reference>
