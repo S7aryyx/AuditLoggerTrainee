@@ -10,7 +10,7 @@ namespace AuditLogger.Core.Stores
 
         public DbLogStore()
         {
-            _connectionString = "Host=46.191.235.28;Port = 5432;Username = postgres;Password=Asdf=1234Asdf=1234;Database=pm_01";
+            _connectionString = "Host=46.191.235.28;Port=5432;Username=postgres;Password=Asdf=1234Asdf=1234;Database=pm_01";
         }
 
         public void Save(LogEntry entry)
@@ -56,7 +56,7 @@ namespace AuditLogger.Core.Stores
                     {
                         UserId = reader["user_id"].ToString(),
                         Action = reader["action"].ToString(),
-                        Timestamp = (DateTime)reader["timestamp"], // теперь работает
+                        Timestamp = (DateTime)reader["log_time"], 
                         Details = reader["details"]?.ToString()
                     });
                 }
