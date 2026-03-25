@@ -46,7 +46,7 @@ namespace AuditLogger.Core.Stores
                 using var conn = new NpgsqlConnection(_connectionString);
                 conn.Open();
 
-                var cmd = new NpgsqlCommand("CALL GetUserLogs();", conn);
+                var cmd = new NpgsqlCommand("SELECT * FROM getuserlogs();", conn);
 
                 using var reader = cmd.ExecuteReader();
 
